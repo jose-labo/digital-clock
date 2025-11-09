@@ -1,0 +1,11 @@
+body {
+font-family: Calibri, sans-serif
+  text-margin: center;
+  background-color: black;
+  color: blue;
+}
+
+#time {
+  font-size: 36px;
+  margin-top: 20px';
+}
